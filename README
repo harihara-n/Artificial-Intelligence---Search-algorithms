@@ -1,0 +1,5 @@
+This project was part of the AI Grad level course at Texas A&M University. It contains the following two problems-
+
+1. 8 puzzle problem: Investigates and compares the performance of Depth First, Breadth First and Iterative Depth First Search techniques for the 8 puzzle problem. For results refer to the detailed document inside the 8 puzzle section. 
+
+2. Stacking Problem: Investigates the Stacking Problem and provides a heuristic search algorithm to solve it. I essentially compare two different heuristics for this problem and report their performance for various test cases. 
